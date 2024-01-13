@@ -1,0 +1,32 @@
+{
+  "peliculas": [
+    {
+      "descripcion": "Spiderman",
+      "year": 2002,
+      "foto": "https://www.caratulasylogos.com/wp-content/uploads/the_amazing_spider-man-640x480.jpeg",
+      "categoria": "acción",
+      "id": "0222"
+    },
+    {
+      "id": "efde",
+      "descripcion": "Batman",
+      "foto": "https://www.caratulasylogos.com/wp-content/uploads/batman_begins-640x480.jpg",
+      "year": "2002",
+      "categoria": "acción"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "terror"
+    },
+    {
+      "id": "2",
+      "nombre": "acción"
+    },
+    {
+      "id": "3",
+      "nombre": "comedia"
+    }
+  ]
+}
