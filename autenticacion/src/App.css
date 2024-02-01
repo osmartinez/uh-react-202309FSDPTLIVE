@@ -1,0 +1,17 @@
+li{
+  display: inline-block;
+  margin-right: 30px;
+}
+
+footer{
+  position: fixed;
+  bottom: 0;
+  margin-left: 30px;
+}
+
+.cookie-ask{
+  background-color: green;
+  color: white;
+  padding: 5px;
+}
+
